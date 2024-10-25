@@ -6,7 +6,7 @@
 * simpletransformers 0.22.1
 
 ## Overview
-![An overview of using Mahalanobis distance features (MDF) extracted from a pre-trained transformer $f$ to detect out-of-domain data.](overview.jpg)
+![An overview of using Mahalanobis distance features (MDF) extracted from a pre-trained transformer $f$ to detect out-of-domain data.](method.jpg)
 
 ## To run the models
 Use the command 
