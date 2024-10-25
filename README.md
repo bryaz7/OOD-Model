@@ -38,4 +38,3 @@ python finetune_bert.py \
     --model_class bert
     --load_path xxx
 ```
-```
